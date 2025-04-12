@@ -1,0 +1,14 @@
+.gitkey
+.DS_Store
+.project
+.classpath
+.settings/
+*.retry
+/target/
+.gitkey
+*.pyc
+*.log
+etc-pihole/config_backup/
+etc-pihole/gravity_backups/
+etc-pihole/migration_backups/
+etc-pihole/listsCache/
