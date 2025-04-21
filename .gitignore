@@ -6,3 +6,7 @@ etc-pihole/gravity_backups/gravity.db.1
 etc-pihole/listsCache/list.1.raw.githubusercontent.com.domains
 etc-pihole/listsCache/list.1.raw.githubusercontent.com.domains.etag
 etc-pihole/listsCache/list.1.raw.githubusercontent.com.domains.sha1
+*.swp
+
+etc-pihole/pihole-FTL.db-shm
+etc-pihole/pihole-FTL.db-shm
