@@ -9,4 +9,5 @@ etc-pihole/listsCache/list.1.raw.githubusercontent.com.domains.sha1
 *.swp
 
 etc-pihole/pihole-FTL.db-shm
-etc-pihole/pihole-FTL.db-shm
+etc-pihole/pihole-FTL.db
+etc-pihole/pihole-FTL.db-wal
